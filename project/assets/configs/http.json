@@ -1,0 +1,7 @@
+{
+    "ip": "1.237.51.142",
+    "port": 6969,
+    "webSocketPingDelayMs": 90000,
+    "logRequests": true,
+    "serverImagePathOverride": {}
+}

@@ -1,0 +1,8 @@
+**
+
+!src
+!types
+!tsconfig.base.json
+!tsconfig.json
+!package.json
+!typedoc.json
